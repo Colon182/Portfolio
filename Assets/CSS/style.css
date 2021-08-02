@@ -1,21 +1,23 @@
-span {
-    color: red;
-}
-
 header {
-    background-color: royalblue;
-}
-
-h1{
-    display: inline-block;
+    background-color: rgb(255, 42, 42);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 ul {
     list-style-type: none;
     float: right;
     font-size: 20px;
+    padding-right: 30px;
 }
 
 li {
     display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
 }
