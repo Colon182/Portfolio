@@ -1,0 +1,21 @@
+span {
+    color: red;
+}
+
+header {
+    background-color: royalblue;
+}
+
+h1{
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+    font-size: 20px;
+}
+
+li {
+    display: inline-block;
+}
