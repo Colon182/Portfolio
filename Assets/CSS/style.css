@@ -1,11 +1,16 @@
-header {
+.Header {
     background-color: rgb(255, 42, 42);
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-ul {
+
+h1 {
+    font-size: 40px;
+}
+
+ul .Header {
     list-style-type: none;
     float: right;
     font-size: 20px;
@@ -20,4 +25,15 @@ a {
     text-decoration: none;
     color: white;
     padding: 5px;
+}
+
+#ContactMe {
+    background-color: rgb(255, 42, 42);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   
+
+ul #ContactMe {
+    padding-right: 30px;
 }
