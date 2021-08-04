@@ -16,7 +16,7 @@ h1 {
     font-size: 40px;
 }
 
-ul .Header {
+.Header ul {
     list-style-type: none;
     float: right;
     font-size: 20px;
@@ -31,6 +31,10 @@ a {
     text-decoration: none;
     color: white;
     padding: 5px;
+}
+
+p {
+    font-size: large;
 }
 
 #img3 {
