@@ -1,5 +1,11 @@
-.Header {
+header {
     background-color: rgb(255, 42, 42);
+}
+
+body {
+    background-color: grey;
+}
+.Header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,6 +40,7 @@ a {
     align-items: center;
 }   
 
-ul #ContactMe {
+#ContactMe ul {
+    font-size: 20px;
     padding-right: 30px;
 }
