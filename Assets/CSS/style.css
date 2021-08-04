@@ -33,6 +33,11 @@ a {
     padding: 5px;
 }
 
+#img3 {
+    position: relative;
+    left: 400px;
+    bottom: 340px;
+}
 #ContactMe {
     background-color: rgb(255, 42, 42);
     display: flex;
