@@ -14,6 +14,16 @@ body {
 
 h1 {
     font-size: 40px;
+    padding-left: 5%;
+}
+
+#AboutMe{
+    text-align: center;
+}
+
+#Works {
+    text-align: center;
+    
 }
 
 .Header ul {
@@ -37,11 +47,16 @@ p {
     font-size: large;
 }
 
-#img3 {
-    position: relative;
-    left: 400px;
-    bottom: 340px;
+.worksImg{
+    height: 500px;
+    width: 800px;
 }
+
+figcaption{
+    color: white;
+    font-size: x-large;
+}
+
 #ContactMe {
     background-color: rgb(255, 42, 42);
     display: flex;
